@@ -1,0 +1,18 @@
+
+h1{
+    background-color: rgb(134, 89, 33);
+    height: 200px;
+    
+}
+
+h6{
+    background-color: rgb(48, 90, 230);
+    height: 50px;
+    
+}
+.border {
+    display: inline-block;
+    width: 70px;
+    height: 70px;
+    margin: 6px;
+  }
